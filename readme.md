@@ -1,4 +1,3 @@
-@"
 ---
 title: Resume ATS Scorer
 emoji: Resume
