@@ -12,9 +12,9 @@ license: mit
 dockerfile: true
 ---
 
-# Resume ATS Scorer
+Resume ATS Scorer
 
-**Upload your resume (PDF) + Paste job description → Get ATS Score (0–100) + Missing Keywords**
+Upload your resume (PDF) + Paste job description → Get ATS Score (0–100) + Missing Keywords**
 
 Built with **NLP**, **TF-IDF**, and **Streamlit**
 "@ > README.md
